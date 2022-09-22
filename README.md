@@ -1,5 +1,5 @@
 ## Haar-Cascade-Classifier-for-CS-GO-Bots
-Making CS GO aimbot using Haar Cascade Classifier
+Making CS GO aimbot using Haar Cascade Classifier with Win32 Framework
 
 Yerli ve milli aimbot :)
 
