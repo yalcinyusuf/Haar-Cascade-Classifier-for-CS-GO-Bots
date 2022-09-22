@@ -1,0 +1,1 @@
+C:\Users\yusuf\OpenCV\opencv\build\x64\vc15\bin\opencv_visualisation.exe --image=a7.bmp --model=haarcascade_frontalface_default.xml --data=result/

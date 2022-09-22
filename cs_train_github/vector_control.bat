@@ -1,0 +1,1 @@
+C:\Users\yusuf\opencv40\opencv\build\x64\vc15\bin\opencv_createsamples.exe -vec csPosVectorHaar.vec -w 27 -h 48 -show

@@ -1,0 +1,1 @@
+C:\Users\yusuf\OpenCV34\opencv\build\x64\vc15\bin\opencv_traincascade.exe -data cs_haar_train11 -vec csPosVectorHaar.vec -bg bg.txt -numPos 114 -numNeg 228 -numStages 13 -minHitRate 0.999 -w 27 -h 48 -maxFalseAlarmRate 0.25 -precalcValBufSize 1024 -precalcIdxBufSize 1024
